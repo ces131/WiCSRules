@@ -1,10 +1,13 @@
+- name: Epic
+  color: d8bcf4
+  description: ""
+- name: HI THERE
+  color: d8bcf4
+  description: label added by the labeler
 - name: bug
   color: d73a4a
   description: Something isn't working
-- name: documentation
-  color: 0075ca
-  description: Improvements or additions to documentation
-- name: duplicate
+- name: duplicate_update
   color: cfd3d7
   description: This issue or pull request already exists
 - name: enhancement
@@ -19,9 +22,70 @@
 - name: invalid
   color: e4e669
   description: This doesn't seem right
+- name: label1
+  color: 29af1f
+  description: ""
+- name: never stale
+  color: d8bcf4
+  description: Never mark this PR/issue as stale
+- name: label2
+  color: bfd4f2
+  description: ""
 - name: question
   color: d876e3
   description: Further information is requested
+- color: d8bcf4
+- name: stale
+  description: This PR/issue is stale and will be deleted in 3 days if the label isn't
+    removed
+- name: label3
+  color: b7f7a0
+  description: ""
+- name: label4
+  color: 0052cc
+  description: ""
+- name: label5
+  color: 84ed84
+  description: development test 
+- name: label6
+  color: 6fea54
+  description: a sixth label
+- name: label7
+  color: d8cb0f
+  description: another another label
+- name: label8
+  color: 84ed84
+  description: ""
+- name: label9
+  color: 82ED88
+  description: ""
+- name: label10
+  color: 42cc0c
+  description: testing
+- name: label11
+  color: 84ed84
+  description: test
+- name: label12
+  color: 84ed84
+  description: test1
+- name: label13
+  color: 84ed84
+  description: ""
+- name: label14
+  color: 84ed84
+  description: ""
+- name: label15
+  color: 84ed84
+  description: another label
+- name: label16
+  color: 4a92f7
+  description: testttt
+- name: label17
+  color: 88e579
+  description: testing 123
+- name: label18
+  color: ddc261
+  description: test test
 - name: wontfix
   color: ffffff
   description: This will not be worked on
